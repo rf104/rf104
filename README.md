@@ -1,19 +1,14 @@
 <!-- ======================= HEADER ======================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Sajedullah%20Aref&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Full Stack%20Developer&descSize=18&descAlignY=60&descColor=E0F2FE&color=gradient&customColorList=0,2,5,30" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Sajedullah%20Aref&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=60&descColor=E0F2FE&color=gradient&customColorList=0,2,5,30" />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Backend+Enthusiast;AI%2FML+Researcher+%7C+Problem+Solver;Building+Software+That+Solves+Real-World+Problems" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Backend+Enthusiast;AI%2FML+Researcher+%7C+Problem+Solver;Building+Software+That+Solves+Real-World+Problems" alt="Typing SVG" />
 </div>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rf104&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
-
-<img src="https://img.shields.io/github/followers/rf104?label=Followers&style=social" alt="GitHub Followers" />
-
+  <img src="https://komarev.com/ghpvc/?username=rf104&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rf104?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
