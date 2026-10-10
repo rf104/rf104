@@ -200,3 +200,9 @@ alt="GitHub Contribution Graph"
 <!-- ======================= FOOTER ======================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,5,30" />
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourname/yourname/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/rf104/rf104/output/github-snake.svg" />
+</picture>
