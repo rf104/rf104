@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Sajedullah%20Aref&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=60&descColor=E0F2FE&color=gradient&customColorList=0,2,5,30" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Backend+Enthusiast;AI%2FML+Researcher+%7C+Problem+Solver;Building+Software+That+Solves+Real-World+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Backend+Enthusiast;AI%2FML+Researcher+%7C+Problem+Solver;Building+Software+That+Solves+Real-World+Problems" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -128,29 +128,24 @@ The goal is to build an efficient and explainable hardware security solution tha
 # 📈 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rf104&theme=github_dark" alt="GitHub Stats" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rf104&theme=github_dark" alt="Top Languages" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rf104&theme=github_dark" alt="Most Used Languages" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rf104&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rf104&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rf104&theme=github_dark" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rf104&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://streak-stats.demolab.com?user=rf104&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rf104&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true&border_radius=10" width="100%" alt="GitHub Contribution Graph" />
+</p>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=rf104&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true&border_radius=10"
-width="100%"
-alt="GitHub Contribution Graph"
-/>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rf104/rf104/output/github-snake-dark.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rf104/rf104/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -170,27 +165,16 @@ alt="GitHub Contribution Graph"
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sajedullah-aref/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:sajedullah_aref_104@yahoo.com">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://codeforces.com/profile/rf_104">
-
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
-
 <a href="https://github.com/rf104">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -200,9 +184,3 @@ alt="GitHub Contribution Graph"
 <!-- ======================= FOOTER ======================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,5,30" />
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rf104/rf104/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/rf104/rf104/output/github-snake.svg" />
-</picture>
