@@ -203,6 +203,6 @@ alt="GitHub Contribution Graph"
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourname/yourname/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rf104/rf104/output/github-snake-dark.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/rf104/rf104/output/github-snake.svg" />
 </picture>
